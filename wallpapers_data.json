@@ -2,16 +2,14 @@
 "ContentPath":"https://raw.githubusercontent.com/SHANKSTEAM/WallpapersSection/master/",
 "CategoryIcName":"category_x_ic.png",
 "ThumbnailIcName":"category_x_type.jpg",
-"CategoriesNames":["IPHONE","ABSTRACT","CITY","CARS","FOOD","ANIMALS","FLOWERS","SPORT","LOVE"],
 "CategoriesSize":{
-    "IPHONE":"7",
-    "ABSTRACT":"10",
-    "CITY":"10",
-    "CARS":"5",
-    "FOOD":"9",
-    "ANIMALS":"5",
-    "FLOWERS":"5",
-    "SPORT":"5",
-    "LOVE":"5"
+"IPHONE":"12",
+"ART":"11",
+"CITY":"17",
+"CARS":"17",
+"FOOD":"17",
+"ANIMALS":"17",
+"NATURE":"17",
+"SPORT":"16",
 }
 }
