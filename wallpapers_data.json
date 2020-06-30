@@ -7,11 +7,11 @@
     "IPHONE":"7",
     "ABSTRACT":"10",
     "CITY":"10",
-    "CARS":"",
+    "CARS":"5",
     "FOOD":"9",
-    "ANIMALS":"",
-    "FLOWERS":"",
-    "SPORT":"",
-    "LOVE":""
+    "ANIMALS":"5",
+    "FLOWERS":"5",
+    "SPORT":"5",
+    "LOVE":"5"
 }
 }
